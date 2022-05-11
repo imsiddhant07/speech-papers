@@ -7,4 +7,4 @@ Documenting my research in the domain of speech.
 ![video](/assests/papers.gif)
 
 
-[Litmap](https://app.litmaps.com/shared/map/82AB3257-E3D1-4822-A599-3DAA8AA2DE5A)
+[Litmap mapping visualization](https://app.litmaps.com/shared/map/82AB3257-E3D1-4822-A599-3DAA8AA2DE5A)
